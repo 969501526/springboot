@@ -1,4 +1,3 @@
 cs
 Creating a new branch is quick.
-dev
-ved
+Creating a new branch is quick & simple.
