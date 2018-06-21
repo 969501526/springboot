@@ -1,4 +1,5 @@
 cs
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-dev
+Switched to a new branch 'dev'
+
